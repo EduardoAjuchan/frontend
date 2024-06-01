@@ -1,0 +1,21 @@
+.header {
+    background-image: linear-gradient(to right, #160b2d, #db044b);
+    padding-bottom: 8rem;
+    padding-top: 5rem;
+  }
+  
+  .header-body {
+    text-align: left;
+  }
+  
+  h1 {
+  
+    margin-left: 2rem;
+    font-size: 3rem;
+  }
+  .bg-gradient{
+    background-image: linear-gradient(to right, #160b2d, #db044b);
+  }
+  .navbar-nav .nav-link {
+    color: white;
+  }
